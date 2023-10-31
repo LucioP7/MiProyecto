@@ -1,0 +1,35 @@
+#container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+#post-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#post-text {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#post-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#posts {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.post {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
